@@ -116,20 +116,25 @@ header p {
   margin-top: 0.5rem;
 }
 
+.img-banner{
+  width: 100%;
+  height: 210px;
+}
+
 .txt-banner{
-  padding: 1rem 1rem;
+  padding: 2rem 1rem;
   color: #f0f0f0;
   width: 60%;
   height: auto;
 }
 
 .txt-banner h1{
-  font-size: 14px;
-  margin-bottom: 0.9rem;
+  font-size: 13px;
+  margin-bottom: 1rem;
 }
 
 .txt-banner p,span{
-  font-size: 12px;
+  font-size: 11px;
 }
 
 span{
@@ -166,7 +171,7 @@ span{
 
 .img-bannerRobot{
   background-image: url(img/robotend.png);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
   height: 200px;
