@@ -122,15 +122,15 @@ header p {
 }
 
 .txt-banner{
-  padding: 2rem 1rem;
+  padding: 6rem 1rem;
   color: #f0f0f0;
   width: 60%;
   height: auto;
 }
 
 .txt-banner h1{
-  font-size: 13px;
-  margin-bottom: 1rem;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
 }
 
 .txt-banner p,span{
